@@ -1,13 +1,14 @@
 package com.recsys.twitter.matfac;
 
+
 //import ml.recovery.*;
 import java.util.*;
 //import java.math.*;
 //import java.util.Arrays;
 //import java.lang.*;
 //import java.util.Scanner;
+public class Matrixfactorization {
 
-public class Matfac {
 
 	public static double[][] RandMatrix(int n, int m) {
 		double[][] Matrix = new double[n][m];
